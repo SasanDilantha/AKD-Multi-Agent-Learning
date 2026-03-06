@@ -1,0 +1,11 @@
+# system folder
+__pycache__/
+.adk/
+ls 
+
+# virtual environment
+venv/
+.venv/
+.env
+
+
